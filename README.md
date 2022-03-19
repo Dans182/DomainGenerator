@@ -3,7 +3,7 @@ Explicación del ejercicio:
 Se ha creado una página que generará al azar todas las combinaciones posibles para el nombre de un dominio web.
 
 
-Se han declarado cuatro variables que contienen un array cada una con pronombres, adjetivos,sustantivos y extensiones web, de manera que al unir un elemento de cada array me genere el dominio.
+Se han declarado cuatro variables que contienen un array cada una con pronombres, adjetivos, sustantivos y extensiones web, de manera que al unir un elemento de cada array me genere el dominio.
 
 He creado 1 loop, que recorre otro, y otro y otro, de manera que va cada elemento de cada array finalmente se encontrará y hará todas las combinaciones posibles.
 
