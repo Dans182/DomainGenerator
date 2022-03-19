@@ -42,6 +42,7 @@ const domainGenerator = (
 };
 
 window.onload = domainGenerator(pronouns, adjetives, nouns, extentions);
+console.log(dominio);
 
 let boton = document.getElementById("eliminar");
 boton.addEventListener(
